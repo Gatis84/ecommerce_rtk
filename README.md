@@ -1,4 +1,13 @@
-# Check it Here: https://gatis84.github.io/ecommerce_rtk/
+🛒 E-Commerce App with Redux Toolkit
+
+This application demonstrates how to manage global state efficiently using Redux Toolkit in a React-based project. It showcases a simple e-commerce platform where users can:
+- Browse a list of products
+- Add products to a shopping cart
+- View and remove items from the cart
+
+The main focus of this app is to show how Redux Toolkit allows you to share state across all components — without relying on component hierarchy — making data like cart contents globally accessible throughout the application.
+
+# Check Deployed version Here: https://gatis84.github.io/ecommerce_rtk/
 
 # React + Vite
 
